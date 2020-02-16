@@ -1,2 +1,2 @@
 # STA-506
-Course Projects
+Course Projects for Mathematical Statistics Using R
